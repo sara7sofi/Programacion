@@ -10,6 +10,7 @@ public class Pruebas {
         System.out.println("Edad: ");
         int edad = sc.nextInt();
         /*Esta es la segunda modificacion*/
+        //Soy Rebeca, he venido a colonizar tus archivos
         //if (edad >= 18) {
            //System.out.println("Mayor de edad . Adelante");
         }
