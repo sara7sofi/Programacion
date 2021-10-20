@@ -9,7 +9,7 @@ public class Pruebas {
         Scanner sc = new Scanner(System.in);
         System.out.println("Edad: ");
         int edad = sc.nextInt();
-        /*Si tiene mas o igual de 18 años, adelante*/
+        /*Esta es la segunda modificacion*/
         //if (edad >= 18) {
            //System.out.println("Mayor de edad . Adelante");
         }
